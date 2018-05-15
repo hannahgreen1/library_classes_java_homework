@@ -32,7 +32,7 @@ public class BorrowerTest {
     public void canBorrowBookFromLibrary(){
         borrower.borrowBookFromLibrary(library);
         assertEquals(1, borrower.bookCount());
-//        assertEquals (0, library.bookCount());
+      assertEquals (0, library.bookCount());
     }
     @Test
     public void returnAllBooks(){
