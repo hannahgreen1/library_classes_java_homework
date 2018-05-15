@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryClasses.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryClasses_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryClasses_main.iml" group="LibraryClasses" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryClasses_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryClasses_test.iml" group="LibraryClasses" />
     </modules>
   </component>
 </project>
